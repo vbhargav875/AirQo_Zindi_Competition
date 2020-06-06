@@ -1,8 +1,8 @@
-AirQo Ugandan Air Quality Forecast Challenge
+###**AirQo Ugandan Air Quality Forecast Challenge**
 
-Objective : The objective of this challenge is to predict the air quality level at exactly 24 hours after a 5-day series of hourly weather data readings which include temperature, rainfall, wind, and humidity.
+**Objective** : The objective of this challenge is to predict the air quality level at exactly 24 hours after a 5-day series of hourly weather data readings which include temperature, rainfall, wind, and humidity.
 
-Data :
+####**Data** :
 
 The weather indicators available in the train and test are:
 
@@ -12,10 +12,10 @@ wind_dir: mean direction of the wind over the hour (degrees)*
 wind_spd: mean wind speed at the site over the hour (metres per second)*
 atmos_press: mean atmospheric pressure(atm)*
 
-Link to data : https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/data
+**Link to data** : https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/data
 
-Note : The data used in the AirQoCode.ipynb is obtained after performing minimal data cleaning and formatting of the given data.
+**Note** : The data used in the AirQoCode.ipynb is obtained after performing minimal data cleaning and formatting of the given data.
 
-Private leaderboard Rank : 50/318
+**Private leaderboard Rank** : 50/318
 
-Link to leaderboard : https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/leaderboard
+**Link to leaderboard** : https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/leaderboard

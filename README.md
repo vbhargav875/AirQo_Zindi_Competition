@@ -7,9 +7,13 @@
 The weather indicators available in the train and test are:
 
 temp: mean temperature recorded at the site over the hour (degrees Celsius)*
+
 precip: total rainfall in mm recorded at the site over the hour (mm)*
+
 wind_dir: mean direction of the wind over the hour (degrees)*
+
 wind_spd: mean wind speed at the site over the hour (metres per second)*
+
 atmos_press: mean atmospheric pressure(atm)*
 
 **Link to data** : https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/data

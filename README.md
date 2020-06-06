@@ -1,8 +1,8 @@
-###**AirQo Ugandan Air Quality Forecast Challenge**
+**AirQo Ugandan Air Quality Forecast Challenge**
 
 **Objective** : The objective of this challenge is to predict the air quality level at exactly 24 hours after a 5-day series of hourly weather data readings which include temperature, rainfall, wind, and humidity.
 
-####**Data** :
+**Data** :
 
 The weather indicators available in the train and test are:
 
